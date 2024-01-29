@@ -1,2 +1,4 @@
 # CapstoneTest
-This is a test for technical EDITTTTTTTTTTTT!
+
+This is a test for technical homework!!!
+
